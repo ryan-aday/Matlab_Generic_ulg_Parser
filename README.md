@@ -1,5 +1,5 @@
 # Matlab_Generic_ulg_Parser
-Simple Matlab script that spits out UTC time, latitude, longitude, altitude, speed, distance traveled from a .ulg file.
+Simple Matlab script that spits out UTC time, latitude, longitude, altitude, speed, distance traveled from a .ulg file. Sends the data to an .xlsx file, and also spits out a flight path map.
 
 # Instructions:
 
@@ -10,5 +10,5 @@ Simple Matlab script that spits out UTC time, latitude, longitude, altitude, spe
 5. Press the enter key.
 6. Wait for about a minute. A plot of the drone flight + a .csv file with the timestamp & coordinates should generate.
 
-**NOTE**
+**NOTE:\n**
 If the columns for the date or time come out odd, change the column format to 'Date' and 'Time' in the .xlsx sheet, respectively.
