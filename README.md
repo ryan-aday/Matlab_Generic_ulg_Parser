@@ -1,5 +1,5 @@
 # Matlab_Generic_ulg_Parser
-Simple Matlab script that spits out UTC time, latitude, longitude, altitude, speed, distance traveled from a .ulg file. Sends the data to an .xlsx file, and also spits out a flight path map.
+Simple Matlab script that spits out UTC time, latitude, longitude, altitude, speed, distance traveled from a .ulg file. Sends the data to a .csv file, and also spits out a flight path map.
 
 # Instructions:
 
