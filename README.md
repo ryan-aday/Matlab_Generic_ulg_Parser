@@ -3,7 +3,7 @@ Simple Matlab script that spits out UTC time, latitude, longitude, altitude, spe
 
 # Instructions:
 
-1. Please download Matlab from ToolQuest. The version doesn't matter, but please download the latest version if possible.
+1. Please download Matlab R2023a. The version doesn't matter, but please download the latest version if possible.
 2. Open Aday_AltaX_ulog_Timestamp_GPS_Reader_Final.m.
 3. Click on the "Run" button.
 4. Enter the .ulg file name in the console at the bottom of the Matlab screen, without entering '.ulg' at the end. Example: myFilenameWithoutTheExtension
